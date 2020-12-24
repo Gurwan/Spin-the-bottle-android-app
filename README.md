@@ -7,4 +7,4 @@
 
 <hr> </hr>
 
-<p> This application allows you to play to "Spin the bottle" without bottle. This application is coded in Java with the Android Studio IDE.</p>
+<p> This application allows you to play to "Spin the bottle" without bottle. <br> This application is coded in Java with the Android Studio IDE.</p>
