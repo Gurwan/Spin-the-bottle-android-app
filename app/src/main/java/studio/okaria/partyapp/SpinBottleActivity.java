@@ -27,6 +27,8 @@ public class SpinBottleActivity extends AppCompatActivity {
         bottle = findViewById(R.id.bottle);
     }
 
+
+    //function allows to do the animation of the bottle
     public void spinBottle(View v){
 
         final MediaPlayer mp = MediaPlayer.create(this, R.raw.bottlesound);

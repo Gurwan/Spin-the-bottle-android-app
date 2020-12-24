@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    
+    //allows you to start the activity that allows you to spin the bottle
     public void openSpinBottle(){
         Intent intent = new Intent(this,SpinBottleActivity.class);
         startActivity(intent);
