@@ -7,7 +7,30 @@
 
 <hr> </hr>
 
-<p> This application allows you to play to "Spin the bottle" without bottle. <br> This application is coded in Java with the Android Studio IDE.</p>
+<p> This application allows you to play to "Spin the bottle" without bottle. </p>
+
+<hr> </hr>
+
+<h3> Screenshots </h3>
+
+<p align="center">
+  <img src="" width="850" style="max-width:100%;"><br>
+  Visual 1 
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="" width="850" style="max-width:100%;"><br>
+  Visual 2 
+</p>
+
+<hr> </hr>
+ 
+<hr> </hr> 
+ 
+<p> This application is coded in Java with the Android Studio IDE.</p>
 
 <hr> </hr>
 
