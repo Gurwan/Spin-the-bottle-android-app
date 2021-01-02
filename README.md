@@ -14,7 +14,7 @@
 <h3> Screenshots </h3>
 
 <p align="center">
-  <img src="" width="850" style="max-width:100%;"><br>
+  <img src="https://github.com/Gurwan/SpinTheBottle/blob/master/doc/img.jpg" width="500" style="max-width:100%;"><br>
   Visual 1 
 </p>
 
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="" width="850" style="max-width:100%;"><br>
+  <img src="https://github.com/Gurwan/SpinTheBottle/blob/master/doc/img2.jpg" width="500" style="max-width:100%;"><br>
   Visual 2 
 </p>
 
